@@ -13,8 +13,11 @@ List of the species that will be identified:
         - mm7 (2005)
 
     Duplicated value: 16299 in mm8['chrM'] and mm7['chrM']
+   
     Duplicated value: 16299 in mm9['chrM'] and mm7['chrM']
+   
     Duplicated value: 206961 in mm10['chr1_GL456221_random'] and mm8['chr8_random']
+   
     Duplicated value: 16299 in mm10['chrM'] and mm7['chrM']
     
     ****
@@ -23,36 +26,36 @@ List of the species that will be identified:
         Duplicated value: 11753682 in rheMac3['chrY'] and Mmul10['Y']
     ****
        
-2. Fruit fly (Drosophila melanogaster)
+3. Fruit fly (Drosophila melanogaster)
 
         - dm6 (2014)
         - dm5 (2000)
 
-3. Zebrafish (Danio rerio)
+4. Zebrafish (Danio rerio)
 
         - danRer11 (2017)
         - danRer10 (2014)
         
-4. Nematode worm (Caenorhabditis elegans)
+5. Nematode worm (Caenorhabditis elegans)
 
         - WBcel235 (2013)
         - WBcel215 (2012)
 
-5. Rat (Rattus norvegicus)
+6. Rat (Rattus norvegicus)
 
         - mRatBN7.2 (2020)
         - Rnor_6.0 (2014)
 
-6. Yeast (Saccharomyces cerevisiae)
+7. Yeast (Saccharomyces cerevisiae)
 
         - R64 (2014) 
         
-7. Arabidopsis (Arabidopsis thaliana) 
+8. Arabidopsis (Arabidopsis thaliana) 
 
         - Col-XJTU (2022 - couldn't find it)
         - TAIR (2018)
         
-8. Escherichia coli (E. coli) 
+9. Escherichia coli (E. coli) 
 
         - ASM584v2 (2013)
         - ASM886v2 (2018)
